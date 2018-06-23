@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ConversationSchema" type="JavaScript" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
